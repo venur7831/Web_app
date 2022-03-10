@@ -1,0 +1,13 @@
+package com.quinbay.march22.WEB.APP;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class WebAppApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(WebAppApplication.class, args);
+	}
+
+}
